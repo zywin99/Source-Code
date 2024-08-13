@@ -1,0 +1,89 @@
+mnlc_o_AM,mnlc_d_AM,AM Peak,mnlc_o_INTER,mnlc_d_INTER,Inter Peak,mnlc_o_PM,mnlc_d_PM,PM Peak
+Bond Street,Canary Wharf LU,1258.0,Bond Street,London Bridge LU,4292.0,Bond Street,Waterloo LU,6635.0
+Bond Street,Bank and Monument,695.0,Bond Street,Liverpool Street LU,3747.0,Bond Street,London Bridge LU,6236.0
+Bond Street,Liverpool Street LU,620.0,Bond Street,Bank and Monument,3268.0,Bond Street,Liverpool Street LU,5248.0
+Bond Street,St. Paul's,548.0,Bond Street,Waterloo LU,2748.0,Bond Street,North Greenwich,3158.0
+Bond Street,London Bridge LU,485.0,Bond Street,Canary Wharf LU,2501.0,Bond Street,Canary Wharf LU,2895.0
+Bond Street,Chancery Lane,362.0,Bond Street,St. Paul's,2359.0,Bond Street,Victoria LU,2469.0
+Bond Street,Holborn,297.0,Bond Street,Chancery Lane,2000.0,Bond Street,Stratford,2285.0
+Bond Street,Southwark,267.0,Bond Street,Tottenham Court Road,1766.0,Bond Street,Southwark,2156.0
+Green Park,Canary Wharf LU,1020.0,Green Park,Victoria LU,5429.0,Green Park,Victoria LU,9396.0
+Green Park,Victoria LU,373.0,Green Park,London Bridge LU,3557.0,Green Park,Waterloo LU,4418.0
+Green Park,London Bridge LU,358.0,Green Park,Canary Wharf LU,2659.0,Green Park,London Bridge LU,3890.0
+Green Park,King's Cross St. Pancras,318.0,Green Park,King's Cross St. Pancras,2532.0,Green Park,King's Cross St. Pancras,3453.0
+Green Park,Brixton LU,235.0,Green Park,Waterloo LU,1914.0,Green Park,Brixton LU,3152.0
+Green Park,Bank and Monument,217.0,Green Park,Knightsbridge,1704.0,Green Park,Vauxhall LU,3074.0
+Green Park,Vauxhall LU,217.0,Green Park,South Kensington,1600.0,Green Park,Canary Wharf LU,2462.0
+Green Park,Euston LU,191.0,Green Park,Oxford Circus,1552.0,Green Park,North Greenwich,2095.0
+Waterloo LU,Bank and Monument,51631.0,Waterloo LU,Bank and Monument,10665.0,Waterloo LU,Bank and Monument,5320.0
+Waterloo LU,Canary Wharf LU,23356.0,Waterloo LU,London Bridge LU,6924.0,Waterloo LU,London Bridge LU,4724.0
+Waterloo LU,Oxford Circus,8222.0,Waterloo LU,Oxford Circus,5240.0,Waterloo LU,North Greenwich,3826.0
+Waterloo LU,Bond Street,7346.0,Waterloo LU,Piccadilly Circus,4723.0,Waterloo LU,Leicester Square,3657.0
+Waterloo LU,Piccadilly Circus,7271.0,Waterloo LU,Canary Wharf LU,4647.0,Waterloo LU,Stratford,3551.0
+Waterloo LU,Tottenham Court Road,6195.0,Waterloo LU,Bond Street,4581.0,Waterloo LU,Euston LU,3503.0
+Waterloo LU,Green Park,5558.0,Waterloo LU,Leicester Square,4560.0,Waterloo LU,Canary Wharf LU,3332.0
+Waterloo LU,King's Cross St. Pancras,5052.0,Waterloo LU,Tottenham Court Road,4351.0,Waterloo LU,Piccadilly Circus,3234.0
+Stockwell,Bank and Monument,3203.0,Stockwell,Oxford Circus,1322.0,Stockwell,Victoria LU,983.0
+Stockwell,Oxford Circus,3101.0,Stockwell,Victoria LU,1198.0,Stockwell,Oxford Circus,635.0
+Stockwell,Victoria LU,2659.0,Stockwell,London Bridge LU,693.0,Stockwell,Waterloo LU,575.0
+Stockwell,Moorgate,2200.0,Stockwell,Green Park,678.0,Stockwell,London Bridge LU,522.0
+Stockwell,Green Park,2040.0,Stockwell,King's Cross St. Pancras,672.0,Stockwell,King's Cross St. Pancras,394.0
+Stockwell,King's Cross St. Pancras,1492.0,Stockwell,Brixton LU,517.0,Stockwell,Brixton LU,318.0
+Stockwell,London Bridge LU,1466.0,Stockwell,Bank and Monument,457.0,Stockwell,Vauxhall LU,315.0
+Stockwell,Old Street,1304.0,Stockwell,Tooting Broadway,427.0,Stockwell,Leicester Square,312.0
+Oxford Circus,Victoria LU,1086.0,Oxford Circus,Victoria LU,12984.0,Oxford Circus,Victoria LU,19252.0
+Oxford Circus,Bank and Monument,693.0,Oxford Circus,King's Cross St. Pancras,6995.0,Oxford Circus,King's Cross St. Pancras,8194.0
+Oxford Circus,Liverpool Street LU,641.0,Oxford Circus,Liverpool Street LU,6088.0,Oxford Circus,Liverpool Street LU,7154.0
+Oxford Circus,St. Paul's,521.0,Oxford Circus,Bank and Monument,4511.0,Oxford Circus,Brixton LU,6808.0
+Oxford Circus,King's Cross St. Pancras,421.0,Oxford Circus,Paddington TfL,3606.0,Oxford Circus,Waterloo LU,5714.0
+Oxford Circus,Brixton LU,411.0,Oxford Circus,Brixton LU,3464.0,Oxford Circus,Vauxhall LU,5189.0
+Oxford Circus,Chancery Lane,347.0,Oxford Circus,St. Paul's,3174.0,Oxford Circus,Paddington TfL,4576.0
+Oxford Circus,Vauxhall LU,339.0,Oxford Circus,Waterloo LU,3075.0,Oxford Circus,Finsbury Park LU,4323.0
+Warren Street,Victoria LU,933.0,Warren Street,Victoria LU,4168.0,Warren Street,Victoria LU,9449.0
+Warren Street,Green Park,303.0,Warren Street,Oxford Circus,1853.0,Warren Street,Brixton LU,3168.0
+Warren Street,Vauxhall LU,272.0,Warren Street,Finsbury Park LU,1271.0,Warren Street,Finsbury Park LU,2760.0
+Warren Street,Canary Wharf LU,252.0,Warren Street,King's Cross St. Pancras,1098.0,Warren Street,Waterloo LU,2448.0
+Warren Street,Brixton LU,205.0,Warren Street,Green Park,994.0,Warren Street,Vauxhall LU,2426.0
+Warren Street,Waterloo LU,201.0,Warren Street,Waterloo LU,950.0,Warren Street,Walthamstow Central,2121.0
+Warren Street,Oxford Circus,200.0,Warren Street,Brixton LU,934.0,Warren Street,Charing Cross LU,1854.0
+Warren Street,South Kensington,175.0,Warren Street,Vauxhall LU,901.0,Warren Street,Tottenham Hale LU,1555.0
+Euston LU,Victoria LU,5522.0,Euston LU,Victoria LU,6805.0,Euston LU,Victoria LU,7435.0
+Euston LU,Bank and Monument,5137.0,Euston LU,Oxford Circus,4033.0,Euston LU,Waterloo LU,3649.0
+Euston LU,Moorgate,3792.0,Euston LU,London Bridge LU,3316.0,Euston LU,London Bridge LU,2886.0
+Euston LU,Old Street,2794.0,Euston LU,Waterloo LU,3227.0,Euston LU,Vauxhall LU,2000.0
+Euston LU,London Bridge LU,2596.0,Euston LU,Bank and Monument,3009.0,Euston LU,Brixton LU,1889.0
+Euston LU,Oxford Circus,2313.0,Euston LU,Leicester Square,2782.0,Euston LU,Finsbury Park LU,1747.0
+Euston LU,Waterloo LU,2187.0,Euston LU,Old Street,2522.0,Euston LU,Oxford Circus,1729.0
+Euston LU,Vauxhall LU,1933.0,Euston LU,Green Park,2335.0,Euston LU,Old Street,1618.0
+King's Cross St. Pancras,Victoria LU,8121.0,King's Cross St. Pancras,Oxford Circus,10043.0,King's Cross St. Pancras,Victoria LU,9140.0
+King's Cross St. Pancras,Oxford Circus,5372.0,King's Cross St. Pancras,Victoria LU,9907.0,King's Cross St. Pancras,Liverpool Street LU,6142.0
+King's Cross St. Pancras,Liverpool Street LU,5030.0,King's Cross St. Pancras,Paddington TfL,6468.0,King's Cross St. Pancras,Paddington TfL,5399.0
+King's Cross St. Pancras,Paddington TfL,3973.0,King's Cross St. Pancras,Liverpool Street LU,6008.0,King's Cross St. Pancras,Oxford Circus,4711.0
+King's Cross St. Pancras,Moorgate,3955.0,King's Cross St. Pancras,Covent Garden,5684.0,King's Cross St. Pancras,Waterloo LU,4557.0
+King's Cross St. Pancras,Aldgate,3533.0,King's Cross St. Pancras,London Bridge LU,5153.0,King's Cross St. Pancras,London Bridge LU,4012.0
+King's Cross St. Pancras,Bank and Monument,3477.0,King's Cross St. Pancras,Leicester Square,5150.0,King's Cross St. Pancras,Vauxhall LU,3643.0
+King's Cross St. Pancras,Holborn,3416.0,King's Cross St. Pancras,Holborn,4898.0,King's Cross St. Pancras,Leicester Square,3156.0
+Tottenham Court Road,Liverpool Street LU,847.0,Tottenham Court Road,Liverpool Street LU,6138.0,Tottenham Court Road,Liverpool Street LU,9451.0
+Tottenham Court Road,Bank and Monument,638.0,Tottenham Court Road,Bank and Monument,3555.0,Tottenham Court Road,Waterloo LU,5716.0
+Tottenham Court Road,St. Paul's,480.0,Tottenham Court Road,Waterloo LU,2652.0,Tottenham Court Road,Stratford,3178.0
+Tottenham Court Road,Stratford,276.0,Tottenham Court Road,St. Paul's,2443.0,Tottenham Court Road,Victoria LU,2853.0
+Tottenham Court Road,Paddington TfL,231.0,Tottenham Court Road,Chancery Lane,1854.0,Tottenham Court Road,Bank and Monument,2490.0
+Tottenham Court Road,Chancery Lane,223.0,Tottenham Court Road,Stratford,1835.0,Tottenham Court Road,Shepherd's Bush LU,2183.0
+Tottenham Court Road,Waterloo LU,207.0,Tottenham Court Road,Victoria LU,1796.0,Tottenham Court Road,Bethnal Green LU,2030.0
+Tottenham Court Road,Victoria LU,188.0,Tottenham Court Road,Bond Street,1744.0,Tottenham Court Road,Paddington TfL,1971.0
+London Bridge LU,Canary Wharf LU,21849.0,London Bridge LU,Bond Street,7096.0,London Bridge LU,Waterloo LU,6173.0
+London Bridge LU,Bond Street,6042.0,London Bridge LU,Canary Wharf LU,6881.0,London Bridge LU,North Greenwich,4655.0
+London Bridge LU,Old Street,4903.0,London Bridge LU,Waterloo LU,6006.0,London Bridge LU,Canary Wharf LU,3951.0
+London Bridge LU,Green Park,4527.0,London Bridge LU,Green Park,5309.0,London Bridge LU,Stratford,3787.0
+London Bridge LU,Moorgate,4464.0,London Bridge LU,King's Cross St. Pancras,5177.0,London Bridge LU,King's Cross St. Pancras,3639.0
+London Bridge LU,King's Cross St. Pancras,3082.0,London Bridge LU,Westminster,4504.0,London Bridge LU,Euston LU,3484.0
+London Bridge LU,Euston LU,2549.0,London Bridge LU,Stratford,3959.0,London Bridge LU,Bond Street,3427.0
+London Bridge LU,Stratford,2449.0,London Bridge LU,Euston LU,3651.0,London Bridge LU,Paddington TfL,2384.0
+Bank and Monument,Waterloo LU,2728.0,Bank and Monument,Waterloo LU,8047.0,Bank and Monument,Waterloo LU,35927.0
+Bank and Monument,Canary Wharf DLR,1694.0,Bank and Monument,Oxford Circus,5753.0,Bank and Monument,Canary Wharf DLR,6526.0
+Bank and Monument,Liverpool Street LU,1655.0,Bank and Monument,Canary Wharf DLR,5486.0,Bank and Monument,Euston LU,4634.0
+Bank and Monument,Oxford Circus,1553.0,Bank and Monument,Tottenham Court Road,4283.0,Bank and Monument,King's Cross St. Pancras,4518.0
+Bank and Monument,Tottenham Court Road,1379.0,Bank and Monument,King's Cross St. Pancras,3718.0,Bank and Monument,Oxford Circus,4404.0
+Bank and Monument,Holborn,1354.0,Bank and Monument,Bond Street,3699.0,Bank and Monument,Tottenham Court Road,4339.0
+Bank and Monument,Chancery Lane,1218.0,Bank and Monument,Holborn,3061.0,Bank and Monument,Clapham Junction,4185.0
+Bank and Monument,Bond Street,1049.0,Bank and Monument,Euston LU,2675.0,Bank and Monument,Wimbledon,3775.0
